@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurnBasedGame", "TurnBasedGame.csproj", "{E9534E97-1574-951C-BFEB-4DC13F3B0FA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurnBasedGame.Plugins", "TurnBasedGame.Plugins.csproj", "{7B5173FB-E4A7-9C30-3AAC-141AD264C03B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurnBasedGame.Editor", "TurnBasedGame.Editor.csproj", "{E3FAA93E-B858-5141-9A62-5DCAF23655B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9534E97-1574-951C-BFEB-4DC13F3B0FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9534E97-1574-951C-BFEB-4DC13F3B0FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9534E97-1574-951C-BFEB-4DC13F3B0FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9534E97-1574-951C-BFEB-4DC13F3B0FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B5173FB-E4A7-9C30-3AAC-141AD264C03B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B5173FB-E4A7-9C30-3AAC-141AD264C03B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B5173FB-E4A7-9C30-3AAC-141AD264C03B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B5173FB-E4A7-9C30-3AAC-141AD264C03B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3FAA93E-B858-5141-9A62-5DCAF23655B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3FAA93E-B858-5141-9A62-5DCAF23655B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3FAA93E-B858-5141-9A62-5DCAF23655B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3FAA93E-B858-5141-9A62-5DCAF23655B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
